@@ -26,23 +26,23 @@ def vName(name):
         print("Please Enter a Vaild Name")       
 
 
-if __name__ == "__main__":
-    while True : 
-        name = input("Please enter Your Name :  ")
-        vaildName = vName(name)
-        if vaildName:
-            pass
-        else:
-            print("------------------------------")
-            print("Please Enter a Vaild Name ! ")
-            continue
-        email = input("Please enter your Email:  ")     
-        vaildEmail = vEmail(email)
-        if vaildEmail:
-            break
-        else:
-            print("Please Enter a Vaild Email ! ")
-            print("------------------------------")
+# if __name__ == "__main__":
+#     while True : 
+#         name = input("Please enter Your Name :  ")
+#         vaildName = vName(name)
+#         if vaildName:
+#             pass
+#         else:
+#             print("------------------------------")
+#             print("Please Enter a Vaild Name ! ")
+#             continue
+#         email = input("Please enter your Email:  ")     
+#         vaildEmail = vEmail(email)
+#         if vaildEmail:
+#             break
+#         else:
+#             print("Please Enter a Vaild Email ! ")
+#             print("------------------------------")
                             
 
-    print(f"Your Name is {name} , And Your Email is {email}")
+#     print(f"Your Name is {name} , And Your Email is {email}")
