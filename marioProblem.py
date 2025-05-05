@@ -10,7 +10,7 @@ def print_from_list(height):
         L.append("*")
         print("".join(L))
 
-print_from_list(6)
+# print_from_list(6)
 
 
-print_triangle(6)
+# print_triangle(6)
