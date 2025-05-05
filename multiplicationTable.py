@@ -24,6 +24,6 @@ def multiplication_table():
 
 
 
-if __name__ == "__main__":
-    generate_multiplication_table()
-    multiplication_table()
+# if __name__ == "__main__":
+#     generate_multiplication_table()
+#     multiplication_table()
