@@ -1,1 +1,1 @@
-Solve for ITI_Task within Pyhon Course
+Solve for ITI_Tasks within Pyhon Course
