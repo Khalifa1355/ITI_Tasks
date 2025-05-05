@@ -37,7 +37,7 @@ def sort_numbers(number_list):
 
 
 
-sort_numbers([5, 2, 8, 1, 9])  # Sort numbers
+# sort_numbers([5, 2, 8, 1, 9])  # Sort numbers
 
-count_vowels("htis is my name")
-find_i_location("i is my i")
+# count_vowels("htis is my name")
+# find_i_location("i is my i")
